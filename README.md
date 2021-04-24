@@ -14,5 +14,4 @@
 
 # Preview
 
-![lf](https://user-images.githubusercontent.com/68476336/115963882-28257c00-a53f-11eb-9869-3acf59d0eae3.PNG)
-![lf2](https://user-images.githubusercontent.com/68476336/115963886-2cea3000-a53f-11eb-903c-ca172fd0a3fe.PNG)
+![lf](https://user-images.githubusercontent.com/68476336/115964328-85223180-a541-11eb-9d6d-a87aa7f5bd48.PNG)
