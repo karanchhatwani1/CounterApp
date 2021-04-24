@@ -21,7 +21,10 @@ public class MainActivity extends AppCompatActivity {
         setUpEventHandlers();
     }
 
+    //Method to set functionality of both the buttons
     private void setUpEventHandlers() {
+
+        //setting onClickListener on decrement button
         bind.decButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -30,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //setting onClickListener on increment button
         bind.incButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
