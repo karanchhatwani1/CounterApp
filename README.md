@@ -15,3 +15,7 @@
 # Preview
 
 ![lf](https://user-images.githubusercontent.com/68476336/115964328-85223180-a541-11eb-9d6d-a87aa7f5bd48.PNG)
+
+# APK
+
+You can checkout Apk [here](https://github.com/karanchhatwani1/CounterApp/blob/master/app-debug.apk)
